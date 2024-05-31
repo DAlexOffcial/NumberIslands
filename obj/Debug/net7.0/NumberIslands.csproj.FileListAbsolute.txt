@@ -1,0 +1,15 @@
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\bin\Debug\net7.0\NumberIslands.exe
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\bin\Debug\net7.0\NumberIslands.deps.json
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\bin\Debug\net7.0\NumberIslands.runtimeconfig.json
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\bin\Debug\net7.0\NumberIslands.dll
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\bin\Debug\net7.0\NumberIslands.pdb
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\NumberIslands.csproj.AssemblyReference.cache
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\NumberIslands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\NumberIslands.AssemblyInfoInputs.cache
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\NumberIslands.AssemblyInfo.cs
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\NumberIslands.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\NumberIslands.dll
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\refint\NumberIslands.dll
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\NumberIslands.pdb
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\NumberIslands.genruntimeconfig.cache
+C:\Users\adiaz\Documents\Proyectos\NumberIslands\obj\Debug\net7.0\ref\NumberIslands.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NumberIslands/1.0.0": {
+        "runtime": {
+          "NumberIslands.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberIslands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
